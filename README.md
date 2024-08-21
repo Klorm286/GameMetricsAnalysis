@@ -12,10 +12,12 @@
 
 ## Стек
 
-![alt text](https://www.python.org/static/favicon.ico)
-<img alt="Pandas" height="50" src="https://pandas.pydata.org/static/img/pandas.svg" width="100" />
-![alt text](https://www.statsmodels.org/stable/_static/favicon.ico)
-![alt text](https://scipy.org/images/favicon.ico)
+<p float="left">
+  <img alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="169" />
+  <img alt="Pandas" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" width="124" />
+  <img alt="statsmodels" height="50" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="69" />
+  <img alt="SciPy" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnfhZwoeVtV8kGJjOCAyuBBLEWWpC7OFiqQ&s" width="50" /> 
+</p>
 
 ## Этапы работы
 
