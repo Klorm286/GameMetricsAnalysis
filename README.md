@@ -12,7 +12,10 @@
 
 ## Стек
 
-Python, Pandas, statsmodels.stats.proportion, scipy.stats
+![alt text](https://www.python.org/static/favicon.ico)
+<img alt="Pandas" height="50" src="https://pandas.pydata.org/static/img/pandas.svg" width="100" />
+![alt text](https://www.statsmodels.org/stable/_static/favicon.ico)
+![alt text](https://scipy.org/images/favicon.ico)
 
 ## Этапы работы
 
